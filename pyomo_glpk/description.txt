@@ -1,0 +1,9 @@
+Solution using Pyomo model with GLPK solver.
+
+Requirments:
+*pandas
+*numpy
+*pyomo
+*glpk solver
+
+Time limit for the solver is set for 30 minutes. It takes couple of hours and gives 51 points.
